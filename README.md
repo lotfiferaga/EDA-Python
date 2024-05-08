@@ -1,7 +1,3 @@
-# EDA-Python
-Exploratory Data Analysis with Python
-
-
 # Exploratory Data Analysis on Car Features and MSRP using Python, NumPy, Seaborn, and Matplotlib
 
 ## Introduction:
