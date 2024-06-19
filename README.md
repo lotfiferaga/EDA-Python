@@ -37,12 +37,4 @@ The dataset comprises various attributes related to cars, including features lik
 ## Conclusion:
 Summarize key findings and insights obtained from the EDA. Highlight any notable trends, relationships, or patterns discovered in the dataset.
 
-## Future Work:
-Suggest potential areas for further analysis, such as predictive modeling or feature engineering, based on the EDA results.
-
-## References:
-Cite relevant sources and documentation for datasets and libraries used.
-
-## Code and Documentation:
-Provide the Python code used for the analysis, along with comprehensive documentation explaining each step and rationale behind the choices made during the exploration.
 
