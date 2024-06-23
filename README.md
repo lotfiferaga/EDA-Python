@@ -34,7 +34,5 @@ The dataset comprises various attributes related to cars, including features lik
 - **Scatter Plots:** Explore the relationship between individual features and MSRP.
 - **Heatmaps:** Illustrate correlations between features.
 
-## Conclusion:
-Summarize key findings and insights obtained from the EDA. Highlight any notable trends, relationships, or patterns discovered in the dataset.
 
 
