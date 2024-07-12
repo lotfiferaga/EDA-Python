@@ -1,4 +1,4 @@
-# EDA-Python
+# EDA Python
 Exploratory Data Analysis with Python
 
 
